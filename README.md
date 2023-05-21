@@ -34,7 +34,7 @@
 |[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in python tutorials that covers most of the tasks in a time series projects | -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deeksha-5&label=Profile%20views&color=0e75b6&style=flat" alt="Deeksha-5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deeksha-5" alt="Deeksha-5" /></a> </p>
 
